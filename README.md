@@ -11,7 +11,7 @@ Aspiring Java Backend Developer | B.Tech Information Technology @ K.S.Rangasamy 
   - Cognifyz Technologies (Java Development)  
 - 🏆 Achievements: Winner of SIH Internal Hackathon | Leader of SIH 2024 nominated team
 
-### Social Presence  
+### How to Reach Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swetha-s-2410s)  
 [<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://helpful-palmier-3bebb8.netlify.app/)  
 
