@@ -26,7 +26,7 @@ Aspiring Java Backend Developer | B.Tech Information Technology @ K.S.Rangasamy 
 ---
 ### IDE and Tools I Use  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/eclipse.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/officel/80/000000/java-eclipse.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
