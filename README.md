@@ -39,6 +39,6 @@ Aspiring Java Backend Developer | B.Tech Information Technology @ K.S.Rangasamy 
 
 ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&&hide=issues,contribs)  
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=contest&theme=dark)](https://leetcode.com/YOUR_LEETCODE_USERNAME)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Swetha__S?theme=dark&font=Stylish)  
 
 [![Swetha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
