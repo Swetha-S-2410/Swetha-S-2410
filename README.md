@@ -16,7 +16,13 @@ Aspiring Java Backend Developer | B.Tech Information Technology @ K.S.Rangasamy 
 [<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://helpful-palmier-3bebb8.netlify.app/)  
 
 ---
-
+### I code in  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+ 
 ---
 
 ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&&hide=issues,contribs)  
